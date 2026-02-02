@@ -1,0 +1,7 @@
+config.py
+test.txt
+__pycache__/
+*.log
+.env
+venv/
+env/
